@@ -38,5 +38,4 @@ var containsDuplicate = function(nums) {
         seen.push(nums[i]);
     }
     return false;
-
 };
