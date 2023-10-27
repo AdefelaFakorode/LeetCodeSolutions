@@ -20,7 +20,6 @@ var containsDuplicate = function(nums) {
     return false;
 };
 
-
 //another way
 //time compelxity: O(n^2)
 /**
