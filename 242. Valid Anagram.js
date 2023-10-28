@@ -3,6 +3,8 @@
  * @param {string} t
  * @return {boolean}
  */
+//time complexity: O(n)
+
 var isAnagram = function (s, t) {
     if (s.length != t.length) { //CASE 1: If the words do not have the same number of letters, they are not anagrams
         return false;
