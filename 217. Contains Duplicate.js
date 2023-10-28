@@ -3,6 +3,7 @@
 //for loop -> interate through the sorted array
 //if...repeats...return true
 //else return false
+
 //time compelxity: O(n)
 
 /**
