@@ -17,7 +17,6 @@ l     r
    rl 
    l <= r ---> return true
  */
-
 //time complexity: O(n)
 
 var isPalindrome = function(s) {
