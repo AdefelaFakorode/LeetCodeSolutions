@@ -43,7 +43,7 @@ var merge = function(nums1, m, nums2, n) {
 
     while( f >= 0 && s >= 0){
         if(nums1[f] > nums2[s]){
-            nums1[end] = nums1[f];
+            nums1[end] = nums1[f]; //swapping value of last index
             f--;
         }
         else{
