@@ -18,8 +18,8 @@ var longestWord = function (words) {
 
     return longest
 
-    time comp: O(n log n)
-    space comp: O(n)
+        time comp: O(n log n)
+        space comp: O(n)
     */
 
     words.sort()
